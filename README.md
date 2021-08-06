@@ -1,2 +1,4 @@
 # C-Socket
-Basic C Socket App
+## For use 
+Change <PORT_HERE> And <IP_HERE> in code.
+![demostration](gif.gif)
